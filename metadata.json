@@ -1,0 +1,5 @@
+{
+  "name": "HTML Video Guide",
+  "description": "A React application that visualizes and narrates a video script about HTML Video tags and embedding using Gemini TTS.",
+  "requestFramePermissions": []
+}
